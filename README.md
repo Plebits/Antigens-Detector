@@ -1,4 +1,4 @@
-# Capstone2-Raspberrypi.Tomato
+# Antigens-Detector
 This Project uses RaspberryPI Zero and nanonets pre-trained models RESTful API to detect the diseases of tomato leaves then sends an email with the diagnosis and the iamge captured with RaspberryPI to your email
 
 # Installation
